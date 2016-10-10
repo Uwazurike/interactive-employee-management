@@ -1,0 +1,6 @@
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Interactive Employeee Management\Interactive Employeee Management\bin\Debug\Interactive Employeee Management.exe.config
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Interactive Employeee Management\Interactive Employeee Management\obj\Debug\Interactive Employeee Management.csprojResolveAssemblyReference.cache
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Interactive Employeee Management\Interactive Employeee Management\bin\Debug\Interactive Employeee Management.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Interactive Employeee Management\Interactive Employeee Management\bin\Debug\Interactive Employeee Management.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Interactive Employeee Management\Interactive Employeee Management\obj\Debug\Interactive Employeee Management.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Interactive Employeee Management\Interactive Employeee Management\obj\Debug\Interactive Employeee Management.pdb
